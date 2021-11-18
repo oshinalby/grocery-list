@@ -1,0 +1,14 @@
+[
+    [1, "CARROT", 1, "KG", "VEGETABLES", "FRESH CARROTS"],
+    [2, "BREAD", 1, "No", "BAKERY", "SWEET BREAD"],
+    [3, "POTATO", 2, "KG", "VEGETABLES", "SMALL SIZE POTATOES"],
+    [4, "Apple", 1, "KG", "FRUITS", "KASHMIRI APPLE"],
+    [5, "PAPAYA", 1, "KG", "FRUITS", "SEEDLESS PAPAYA"],
+    [6, "SUNFLOWER OIL", 1, "L", "OILS AND MINERALS", "BOTTLE PACKED"],
+    [7, "MILK", 3, "L", "DAIRY", "FRESH MILK"],
+    [8, "RICE POWDER", 1, "KG", "CEREALS", "NIRAPARA BRAND"],
+    [9, "CASHEW NUTS", 2, "KG", "DRY FRUITS", "ROASTED"],
+    [10, "ONION", 1, "KG", "VEGETABLE", "LARGE SIZED ONIONS"]
+
+]
+   
